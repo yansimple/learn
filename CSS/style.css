@@ -59,6 +59,7 @@
     /* Primary Color */
     color: #BC9CFF;
     margin-right: 20px;
+    border: 2px solid #BC9CFF;
 }
 #reg {
     height: 34px;
@@ -71,6 +72,7 @@
     text-transform: uppercase;
     margin-right: 140px;
     color: #FFFFFF;
+    border: 2px solid #BC9CFF;
 }
 #backimg {
     width: 100%;
@@ -87,4 +89,228 @@
     position: absolute;
     top: 750px;
     left: 900px;
+}
+.main {
+    width: 100%;
+}
+
+.footer {
+    height: 372px;
+    width: 100%;
+    display: -webkit-flex;
+    flex-direction: row;
+}
+.block {
+    display: flex;
+    margin: 0 10px;
+    width: 150px;
+
+}
+
+.block1 {
+    display: -webkit-flex;
+    flex-direction: column;
+    width: 240px;
+    margin-left: 140px;
+    margin-top: 100px;
+    height: 132px;
+}
+.block1 img {
+    display: flex;
+    height: auto;
+    width: 100px;
+    
+}
+.block1 p {
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    
+    /* Dark 75% */
+    color: rgba(31, 32, 65, 0.75);
+}
+
+.block2 {
+    display: -webkit-flex;
+    flex-direction: column;
+    width: 143px;
+    margin-left: 40px;
+    margin-top: 100px;
+    height: 168px;
+    text-align: left;
+}
+.block2 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0%;
+}
+.block2 h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    color: #1F2041;    
+}
+.block2 li {
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+
+    /* Dark 50% */
+    color: rgba(31, 32, 65, 0.5);
+
+}
+
+.block3 {
+    display: -webkit-flex;
+    flex-direction: column;
+    width: 143px;
+    margin-left: 40px;
+    margin-top: 100px;
+    height: 168px;
+    text-align: left;
+}
+.block3 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0%;
+}
+.block3 h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    color: #1F2041;    
+}
+.block3 li {
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+
+    /* Dark 50% */
+    color: rgba(31, 32, 65, 0.5);
+
+}
+
+.block4 {
+    display: -webkit-flex;
+    flex-direction: column;
+    width: 143px;
+    margin-left: 40px;
+    margin-top: 100px;
+    height: 168px;
+    text-align: left;
+}
+.block4 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0%;
+}
+.block4 h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    color: #1F2041;    
+}
+.block4 li {
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+
+    /* Dark 50% */
+    color: rgba(31, 32, 65, 0.5);
+
+}
+
+.block5 {
+    display: -webkit-flex;
+    flex-direction: column;
+    width: 240px;
+    margin-left: 40px;
+    margin-top: 100px;
+    height: 168px;
+    text-align: left;
+}
+
+.block5 h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    color: #1F2041;    
+}
+
+.block5 pre{
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+
+    /* Dark 50% */
+    color: rgba(31, 32, 65, 0.5);   
+
+}
+
+.underline {
+    width: 100%;
+    height: 70px;
+    display: -webkit-flex;
+}
+
+.undertxt {
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(31, 32, 65, 0.75);
+    margin-left: 140px;
+    margin-top: 26px;
+}
+.social {
+    display: flex;
+    margin-left: auto;
+    margin-right: 140px;
+    height: 20px;
+    margin-top: 20px;
+}
+.social img {
+    margin-right: 5px;
 }
