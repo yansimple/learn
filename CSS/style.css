@@ -82,12 +82,17 @@
 }
 /* body */
 
+.main {
+    width: 100%;
+    position: relative;
+}
+
 .window {
     position: absolute;
     width: 380px;
-    height: 374px;
+    height: 380px;
     left: 140px;
-    top: 140px;
+    top: 200px;
 
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.12);
@@ -129,10 +134,7 @@
     top: 750px;
     left: 900px;
 }
-.main {
-    width: 100%;
-    position: relative;
-}
+
 
 /* FOOTER */
 .footer {
