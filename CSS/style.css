@@ -1,3 +1,7 @@
+.header, .body, .footer {
+    min-width: 1150px;
+}
+
 .header {
     position: absolute;
     width: 100%;
