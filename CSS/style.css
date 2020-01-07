@@ -91,8 +91,8 @@
     position: absolute;
     width: 380px;
     height: 380px;
-    left: 140px;
-    top: 200px;
+    left: 10%;
+    top: 15%;
 
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.12);
