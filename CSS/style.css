@@ -146,7 +146,7 @@
     width: 100%;
     display: -webkit-flex;
     flex-direction: row;
-    margin: 100px 20% 20% 0px;
+    margin: 100px 0px 0px;
 }
 
 .footer_center {
